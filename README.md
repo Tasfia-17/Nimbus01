@@ -10,26 +10,25 @@
 [![Hackathon](https://img.shields.io/badge/AI%20Agents-Assemble-purple?style=flat-square)](https://github.com/Tasfia-17/nimbus)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
 
-[🚀 Quick Start](#-quick-start) • [📚 Documentation](#-documentation) • [🎯 Features](#-features) • [🏗️ Architecture](#-architecture) • [🤝 Contributing](#-contributing)
+[ Quick Start](#-quick-start) • [ Documentation](#-documentation) • [ Features](#-features) • [ Architecture](#-architecture) • [ Contributing](#-contributing)
 
 ---
 
-**Stop doing repetitive work.** Build AI agents that think, decide, and execute—autonomously.
+**Stop doing repetitive work.** Build AI agents that think, decide, and execute autonomously.
 
-⚡ **10x Faster** • 💰 **90% Cost Reduction** • 🤖 **Zero Onboarding** • 🎯 **Production Ready**
+⚡ **10x Faster** •  **90% Cost Reduction** •  **Zero Onboarding** •  **Production Ready**
 
 </div>
 
 ---
 
-## 🎯 The Problem
+##  The Problem
 
 Developers and teams spend **60% of their time** on repetitive, automatable tasks:
-- 🔍 Manual competitive analysis (4+ hours per week)
-- 👨‍💻 Routine code reviews and documentation
-- 📊 Data pipeline monitoring and reporting
-- 💬 Customer support responses
-- 📧 Email triage and meeting prep
+-  Manual competitive analysis (4+ hours per week)
+-  Data pipeline monitoring and reporting
+-  Customer support responses
+-  Email triage and meeting prep
 
 **What if an AI agent could handle all of this while you sleep?**
 
@@ -78,17 +77,17 @@ docker-compose up -d
 npm run dev
 ```
 
-Visit **http://localhost:3000** and create your first agent! 🎉
+
 
 ---
 
-## 🎨 Features
+##  Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 **Autonomous Agents**
+###  **Autonomous Agents**
 Build agents that make decisions, use tools, and complete multi-step workflows without human intervention.
 
 **Key capabilities:**
@@ -100,7 +99,7 @@ Build agents that make decisions, use tools, and complete multi-step workflows w
 </td>
 <td width="50%">
 
-### 🔧 **Custom Tools**
+###  **Custom Tools**
 Connect agents to any API, database, or workflow in minutes. No coding required.
 
 **Built-in tools:**
@@ -115,7 +114,7 @@ Connect agents to any API, database, or workflow in minutes. No coding required.
 <tr>
 <td width="50%">
 
-### 👁️ **Real-Time Monitoring**
+###  **Real-Time Monitoring**
 Watch your agents work with live execution logs, tool calls, and decision trees.
 
 **Monitoring features:**
@@ -143,7 +142,7 @@ Deploy to Vercel with one click. No infrastructure management needed.
 <tr>
 <td width="50%">
 
-### 🎨 **Beautiful UI**
+###  **Beautiful UI**
 Retool-inspired interface that developers and non-developers love.
 
 **UI highlights:**
@@ -156,7 +155,7 @@ Retool-inspired interface that developers and non-developers love.
 </td>
 <td width="50%">
 
-### 📊 **Analytics**
+###  **Analytics**
 Track agent performance, costs, and ROI with detailed dashboards.
 
 **Metrics tracked:**
@@ -172,7 +171,7 @@ Track agent performance, costs, and ROI with detailed dashboards.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 Nimbus uses a modern, scalable architecture:
 
@@ -245,7 +244,7 @@ sequenceDiagram
 
 ---
 
-## 💻 Technology Stack
+##  Technology Stack
 
 ### **Frontend**
 - **Next.js 14** (App Router) - React framework with server components
@@ -272,7 +271,7 @@ sequenceDiagram
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### 1. **Competition Research Agent**
 **Problem:** Analyzing competitors takes 4+ hours of manual work  
@@ -318,7 +317,7 @@ const agent = createAgent({
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 ### Getting Started
 - [Installation Guide](docs/getting-started/installation.md)
@@ -348,13 +347,13 @@ const agent = createAgent({
 
 ---
 
-## 🏆 Hackathon Submission
+##  Hackathon Submission
 
-### **AI Agents Assemble Hackathon 2024**
+### **AI Agents Assemble Hackathon 2025**
 
 Nimbus targets multiple prize tracks:
 
-#### 🥇 **Infinity Build Award** ($5,000)
+####  **Infinity Build Award** ($5,000)
 **Cline Integration:** Nimbus uses Cline CLI for autonomous code generation, allowing agents to write, test, and deploy code without human intervention.
 
 **Implementation:**
@@ -363,7 +362,7 @@ Nimbus targets multiple prize tracks:
 - Test generation from specifications
 - Documentation auto-generation
 
-#### 🥇 **Wakanda Data Award** ($4,000)
+####  **Wakanda Data Award** ($4,000)
 **Kestra Integration:** All agent workflows are orchestrated through Kestra, enabling complex multi-step data processing pipelines.
 
 **Implementation:**
@@ -372,7 +371,7 @@ Nimbus targets multiple prize tracks:
 - Scheduled agent runs
 - Workflow version control
 
-#### 🥇 **Stormbreaker Deployment** ($2,000)
+####  **Stormbreaker Deployment** ($2,000)
 **Vercel Integration:** One-click deployment to Vercel's edge network with automatic scaling and zero-downtime updates.
 
 **Implementation:**
@@ -383,7 +382,7 @@ Nimbus targets multiple prize tracks:
 
 ---
 
-## 🚀 Performance & Benchmarks
+##  Performance & Benchmarks
 
 | Metric | Value |
 |--------|-------|
@@ -406,7 +405,7 @@ Nimbus targets multiple prize tracks:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -419,7 +418,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ---
 
-## 📋 Roadmap
+##  Roadmap
 
 ### Current Version (v0.1.0)
 - ✅ Full-stack platform with UI
@@ -430,21 +429,21 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 - ✅ Vercel deployment ready
 
 ### Planned Features (v0.2.0)
-- 🔲 Authentication & user management
-- 🔲 Team collaboration features
-- 🔲 Advanced analytics dashboard
-- 🔲 Marketplace for agent templates
-- 🔲 Visual workflow builder
-- 🔲 Webhook triggers
-- 🔲 Email integration
-- 🔲 Slack/Discord notifications
+-  Authentication & user management
+-  Team collaboration features
+-  Advanced analytics dashboard
+-  Marketplace for agent templates
+-  Visual workflow builder
+-  Webhook triggers
+-  Email integration
+-  Slack/Discord notifications
 
 ### Community Requests
-- 💡 Agent-to-agent communication
-- 💡 Fine-tuning custom models
-- 💡 On-premise deployment option
-- 💡 Mobile app
-- 💡 Browser extension
+-  Agent-to-agent communication
+-  Fine-tuning custom models
+-  On-premise deployment option
+-  Mobile app
+-  Browser extension
 
 ---
 
@@ -491,7 +490,7 @@ Currently Nimbus is optimized for Vercel, but on-premise deployment is on the ro
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built with ❤️ for the **AI Agents Assemble Hackathon 2024**
 
@@ -509,7 +508,7 @@ Built with ❤️ for the **AI Agents Assemble Hackathon 2024**
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) file for details
 
