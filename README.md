@@ -36,7 +36,7 @@ Developers and teams spend **60% of their time** on repetitive, automatable task
 
 ## ✨ The Solution: Nimbus
 
-Nimbus is a **full-stack AI agent platform** that lets you build, deploy, and monitor autonomous agents in minutes—not days.
+Nimbus is a **full-stack AI agent platform** that lets you build, deploy, and monitor autonomous agents in minutes not days.
 
 ```typescript
 // Create an agent in 3 lines
@@ -54,7 +54,7 @@ await agent.execute("Analyze our top 3 competitors");
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 Get Nimbus running in **under 60 seconds**:
 
